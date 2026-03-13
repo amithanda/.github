@@ -4,7 +4,7 @@
 
 ## Category (Required)
 
-*Please select one or more categories that apply to this change.*
+_Please select one or more categories that apply to this change._
 
 - [ ] **Core Protocol**: Changes to the base communication layer, global context, or breaking refactors. (Requires Technical Council approval)
 - [ ] **Governance/Contributing**: Updates to GOVERNANCE.md, CONTRIBUTING.md, or CODEOWNERS. (Requires Governance Council approval)
@@ -16,7 +16,6 @@
 - [ ] **Samples / Conformance**: Maintaining samples and the conformance suite. (Requires Maintainer approval)
 - [ ] **UCP Schema**: Changes to the `ucp-schema` tool (resolver, linter, validator). (Requires Maintainer approval)
 - [ ] **Community Health (.github)**: Updates to templates, workflows, or org-level configs. (Requires DevOps Maintainer approval)
-
 
 ## Related Issues
 
