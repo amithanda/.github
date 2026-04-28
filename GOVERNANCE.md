@@ -81,7 +81,7 @@
   contributions towards the protocol's health and adoption. Elected members are
   re-elected annually and can be re-elected any number of times.
 - Open elected seats may be filled at any time via GC election and approval.
-  Google holds proxy vote for all open seats until Dec 2028 to facilitate rapid 
+  Google holds proxy vote for all open seats until Dec 2028 to facilitate rapid
   early stage growth & adoption of the protocol.
 - Can add/remove TC members via simple majority vote.
 - May choose to review and veto TC decision or recommendation.
